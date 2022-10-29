@@ -1,2 +1,3 @@
 - Blog on [zivs.blog](https://zivs.blog)
 - Trade on [OKX](https://www.okx.com/join/10529406)
+- Use [Sednax](https://www.emptyun.com/aff.php?uid=181791), a secure socks5 proxy, to protect your Internet traffic
