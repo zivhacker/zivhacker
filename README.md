@@ -1,1 +1,2 @@
-
+- Blog on [zivs.blog](https://zivs.blog)
+- Trade on [OKX](https://www.okx.com/join/10529406)
